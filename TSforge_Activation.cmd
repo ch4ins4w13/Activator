@@ -15,7 +15,7 @@
 set _actwin=0
 
 ::  To activate Windows ESU, run the script with "/Z-ESU" parameter or change 0 to 1 in below line
-set _actesu=0
+set _actesu=1
 
 ::  To activate all Office apps (including Project/Visio), run the script with "/Z-Office" parameter or change 0 to 1 in below line
 set _actoff=0
